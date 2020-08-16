@@ -3,3 +3,4 @@ This repository contains basic and trivial ML/DL codes which I wrote as a part o
 Following the sequence:
 1. Rosenblatt's perceptron
 2. ADALINE (Adaptive Linear Neuron)
+... Not updated anymore. Random codes. Still, it covers up the very basics.
